@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+}
+canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.test {
+    background: lightcoral;
+    width: 50px;
+    height: 100px;
+    z-index: 10;
+    position: absolute;
+
+}

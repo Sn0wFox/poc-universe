@@ -1,0 +1,23 @@
+{
+  "name": "poc-universe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.87.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sn0wFox/poc-universe.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Sn0wFox/poc-universe/issues"
+  },
+  "homepage": "https://github.com/Sn0wFox/poc-universe#readme"
+}
